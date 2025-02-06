@@ -24,7 +24,7 @@ export const RESUME_DATA = {
     </>
   ),
   avatarUrl: "https://media.licdn.com/dms/image/v2/D4D03AQHy2WCR_O8peQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731411056853?e=1744243200&v=beta&t=pcM1_Rb-_UgJJBe8HeaWW6ega6ikNZpSM298EQ_fYg0",
-  personalWebsiteUrl: "https://mpdev.ir",
+  personalWebsiteUrl: "https://mohammadyeganeh.ir",
   contact: {
     email: "mohammadyeganeh.dev@gmail.com",
     tel: "+989353150068",
