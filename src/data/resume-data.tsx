@@ -75,7 +75,7 @@ export const RESUME_DATA = {
       title: "Senior Back-End Developer",
       logo: ConsultlyLogo,
       start: "2022",
-      end: null,
+      end: 2025,
       description: (
         <>
           Developed web services for reservation systems and user management.
@@ -95,7 +95,7 @@ export const RESUME_DATA = {
       logo: ConsultlyLogo,
       title: "Senior Back-End Developer",
       start: "2022",
-      end: null,
+      end: 2025,
       description: (
         <>
           Designed and developed a complete reservation system.
