@@ -51,6 +51,24 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "Lotous",
+      link: "https://lotousitc.com/",
+      badges: ["Laravel", "Go", "Microservices", "Redis", "PHP", "Docker", "Rabbitmq"],
+      title: "Senior Back-End Developer",
+      logo: ConsultlyLogo,
+      start: "2025",
+      end: null,
+      description: (
+        <>
+          <ul className="list-inside list-disc">
+            <li>Designed and implemented robust backend services for a blockchain-based asset management application.</li>
+            <li>Ensured security, scalability, and performance in a decentralized environment.</li>
+            <li>Collaborated with cross-functional teams to optimize system efficiency and user experience.</li>
+          </ul>
+        </>
+      ),
+    },
+    {
       company: "Panafor",
       link: "https://panafor.com",
       badges: ["Laravel", "Microservices", "Redis", "PHP", "Docker"],
