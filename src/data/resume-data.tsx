@@ -23,7 +23,7 @@ export const RESUME_DATA = {
       contributing to open-source projects.
     </>
   ),
-  avatarUrl: "https://media.licdn.com/dms/image/v2/D4D03AQHy2WCR_O8peQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731411056853?e=1744243200&v=beta&t=pcM1_Rb-_UgJJBe8HeaWW6ega6ikNZpSM298EQ_fYg0",
+  avatarUrl: "/image.jpeg",
   personalWebsiteUrl: "https://mohammadyeganeh.ir",
   contact: {
     email: "mohammadyeganeh.dev@gmail.com",
@@ -43,7 +43,8 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "University of Applied Science and Technology - Municipality of Karaj Center",
+      school:
+        "University of Applied Science and Technology - Municipality of Karaj Center",
       degree: "Associate's Degree",
       start: "2016",
       end: "2018",
@@ -53,7 +54,15 @@ export const RESUME_DATA = {
     {
       company: "Lotous",
       link: "https://lotousitc.com/",
-      badges: ["Laravel", "Go", "Microservices", "Redis", "PHP", "Docker", "Rabbitmq"],
+      badges: [
+        "Laravel",
+        "Go",
+        "Microservices",
+        "Redis",
+        "PHP",
+        "Docker",
+        "Rabbitmq",
+      ],
       title: "Senior Back-End Developer",
       logo: ConsultlyLogo,
       start: "2025",
@@ -61,9 +70,18 @@ export const RESUME_DATA = {
       description: (
         <>
           <ul className="list-inside list-disc">
-            <li>Designed and implemented robust backend services for a blockchain-based asset management application.</li>
-            <li>Ensured security, scalability, and performance in a decentralized environment.</li>
-            <li>Collaborated with cross-functional teams to optimize system efficiency and user experience.</li>
+            <li>
+              Designed and implemented robust backend services for a
+              blockchain-based asset management application.
+            </li>
+            <li>
+              Ensured security, scalability, and performance in a decentralized
+              environment.
+            </li>
+            <li>
+              Collaborated with cross-functional teams to optimize system
+              efficiency and user experience.
+            </li>
           </ul>
         </>
       ),
@@ -80,10 +98,20 @@ export const RESUME_DATA = {
         <>
           Developed web services for reservation systems and user management.
           <ul className="list-inside list-disc">
-            <li>Designed and implemented scalable microservices architecture.</li>
-            <li>Optimized database queries to enhance system performance and reduce load times.</li>
-            <li>Integrated Redis caching to improve application responsiveness.</li>
-            <li>Ensured system security and stability through regular audits and optimizations.</li>
+            <li>
+              Designed and implemented scalable microservices architecture.
+            </li>
+            <li>
+              Optimized database queries to enhance system performance and
+              reduce load times.
+            </li>
+            <li>
+              Integrated Redis caching to improve application responsiveness.
+            </li>
+            <li>
+              Ensured system security and stability through regular audits and
+              optimizations.
+            </li>
           </ul>
         </>
       ),
@@ -100,8 +128,12 @@ export const RESUME_DATA = {
         <>
           Designed and developed a complete reservation system.
           <ul className="list-inside list-disc">
-            <li>Developed APIs for seamless booking and transaction management.</li>
-            <li>Trained the technical team in software development best practices.</li>
+            <li>
+              Developed APIs for seamless booking and transaction management.
+            </li>
+            <li>
+              Trained the technical team in software development best practices.
+            </li>
           </ul>
         </>
       ),
@@ -116,10 +148,17 @@ export const RESUME_DATA = {
       end: "2022",
       description: (
         <>
-          Managed user accounts, language coaches, and personality assessment tests.
+          Managed user accounts, language coaches, and personality assessment
+          tests.
           <ul className="list-inside list-disc">
-            <li>Developed and maintained back-end services for the publishing platform.</li>
-            <li>Optimized existing systems to enhance performance and user experience.</li>
+            <li>
+              Developed and maintained back-end services for the publishing
+              platform.
+            </li>
+            <li>
+              Optimized existing systems to enhance performance and user
+              experience.
+            </li>
           </ul>
         </>
       ),
@@ -127,7 +166,7 @@ export const RESUME_DATA = {
     {
       company: "Steel Gahreman",
       link: "https://steel-ghahreman.com",
-      badges: ["PHP",  "MYSQL"],
+      badges: ["PHP", "MYSQL"],
       logo: ConsultlyLogo,
       title: "PHP Programmer",
       start: "2016",
@@ -136,7 +175,10 @@ export const RESUME_DATA = {
         <>
           Started professional programming in CRM development.
           <ul className="list-inside list-disc">
-            <li>Designed and developed internal CRM solutions for business operations.</li>
+            <li>
+              Designed and developed internal CRM solutions for business
+              operations.
+            </li>
             <li>Implemented system automation to improve efficiency.</li>
           </ul>
         </>
@@ -157,13 +199,12 @@ export const RESUME_DATA = {
     "Troubleshooting & Problem-Solving",
     "Go",
   ],
-  
+
   projects: [
     {
       title: "Dubai Connect",
       techStack: ["PHP", "Laravel", "AI", "RAG"],
-      description:
-        "AI-powered chatbot for customer support",
+      description: "AI-powered chatbot for customer support",
       logo: ConsultlyLogo,
       link: {
         label: "dubaiconnect.ai",
@@ -214,6 +255,5 @@ export const RESUME_DATA = {
         href: "https://aia.tools/",
       },
     },
-
-  ],  
+  ],
 } as const;
