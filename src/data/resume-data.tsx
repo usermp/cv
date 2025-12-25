@@ -79,7 +79,7 @@ export const RESUME_DATA = {
         <>
           <ul className="list-inside list-disc">
             <li>
-              Promoted to Tech Lead after 4 months for demonstrating exceptional 
+              Promoted to Tech Lead for demonstrating exceptional 
               technical leadership and architecture design capabilities
             </li>
             <li>
@@ -95,11 +95,11 @@ export const RESUME_DATA = {
               encryption, and audit logging for financial compliance
             </li>
             <li>
-              Mentored 4 backend developers, established coding standards, and 
-              implemented CI/CD pipelines reducing deployment time by 40%
+              Mentored backend developers, established coding standards, and 
+              implemented CI/CD pipelines reducing deployment time significantly
             </li>
             <li>
-              Optimized database performance achieving 300% improvement in query 
+              Optimized database performance achieving significant improvement in query 
               execution time through strategic indexing and query optimization
             </li>
           </ul>
@@ -119,23 +119,19 @@ export const RESUME_DATA = {
           <ul className="list-inside list-disc">
             <li>
               Led migration from monolithic to microservices architecture, 
-              decomposing 15+ business domains into independent services
+              decomposing multiple business domains into independent services
             </li>
             <li>
-              Designed and implemented API Gateway handling 50k+ daily requests 
-              with 99.9% uptime using rate limiting and circuit breaker patterns
+              Designed and implemented API Gateway handling high-volume daily requests 
+              with high uptime using rate limiting and circuit breaker patterns
             </li>
             <li>
-              Developed real-time reservation system processing 10k+ concurrent 
+              Developed real-time reservation system processing high-volume concurrent 
               bookings with Redis pub/sub and WebSocket integration
             </li>
             <li>
-              Implemented comprehensive monitoring and alerting system using 
-              Prometheus and Grafana, reducing MTTR by 60%
-            </li>
-            <li>
               Established automated testing pipeline increasing test coverage 
-              from 45% to 85% across all microservices
+              significantly across all microservices
             </li>
           </ul>
         </>
@@ -153,24 +149,24 @@ export const RESUME_DATA = {
         <>
           <ul className="list-inside list-disc">
             <li>
-              Promoted to Back-End Tech Lead after 2 years for successfully 
+              Promoted to Back-End Tech Lead for successfully 
               leading major system refactoring and performance optimization initiatives
             </li>
             <li>
               Architected complete reservation system from ground up, handling 
-              peak loads of 5k+ simultaneous bookings during holiday seasons
+              peak loads of high-volume simultaneous bookings during holiday seasons
             </li>
             <li>
               Implemented distributed caching strategy reducing database load 
-              by 70% and improving response times by 400%
+              significantly and improving response times substantially
             </li>
             <li>
               Built comprehensive reporting dashboard with real-time analytics 
               using Laravel Livewire and Chart.js
             </li>
             <li>
-              Led team of 3 developers, conducted code reviews, and established 
-              development workflow increasing team productivity by 35%
+              Led team of developers, conducted code reviews, and established 
+              development workflow increasing team productivity significantly
             </li>
             <li>
               Integrated multiple payment gateways and implemented idempotent 
@@ -192,7 +188,7 @@ export const RESUME_DATA = {
         <>
           <ul className="list-inside list-disc">
             <li>
-              Developed and maintained publishing platform serving 50k+ monthly 
+              Developed and maintained publishing platform serving high-volume monthly 
               active users with multilingual support
             </li>
             <li>
@@ -205,7 +201,7 @@ export const RESUME_DATA = {
             </li>
             <li>
               Optimized database schema and queries, reducing page load time 
-              from 3.2s to 0.8s on average
+              significantly on average
             </li>
             <li>
               Implemented automated backup and disaster recovery system ensuring 
@@ -232,7 +228,7 @@ export const RESUME_DATA = {
             </li>
             <li>
               Automated inventory tracking and reporting, reducing manual 
-              data entry errors by 95%
+              data entry errors significantly
             </li>
             <li>
               Implemented real-time notifications and workflow automation 
@@ -334,7 +330,7 @@ export const RESUME_DATA = {
     {
       title: "Dubai Connect AI Platform",
       techStack: ["PHP", "Laravel", "AI", "RAG", "OpenAI", "Chatbot"],
-      description: "Enterprise AI chatbot platform utilizing Retrieval-Augmented Generation for accurate customer support with 95% query resolution rate",
+      description: "Enterprise AI chatbot platform utilizing Retrieval-Augmented Generation for accurate customer support with high query resolution rate",
       logo: ConsultlyLogo,
       link: {
         label: "dubaiconnect.ai",
@@ -344,7 +340,7 @@ export const RESUME_DATA = {
     {
       title: "Visaland Travel Platform",
       techStack: ["PHP", "Laravel", "AI Integration", "Travel Tech", "Visa Processing"],
-      description: "AI-powered travel assistance platform automating visa applications and travel planning for 50+ countries",
+      description: "AI-powered travel assistance platform automating visa applications and travel planning for multiple countries",
       logo: ConsultlyLogo,
       link: {
         label: "Visaland",
@@ -354,7 +350,7 @@ export const RESUME_DATA = {
     {
       title: "Hubotel Reservation System",
       techStack: ["PHP", "Laravel", "Redis", "MySQL", "Real-time", "Hospitality"],
-      description: "High-performance hotel management system processing 15k+ daily reservations with real-time availability and dynamic pricing",
+      description: "High-performance hotel management system processing high-volume daily reservations with real-time availability and dynamic pricing",
       logo: ConsultlyLogo,
       link: {
         label: "Hubotel",
@@ -374,7 +370,7 @@ export const RESUME_DATA = {
     {
       title: "AIA Tools Platform",
       techStack: ["PHP", "Laravel", "WordPress", "AI Tools", "Content Management"],
-      description: "Curated platform showcasing 500+ AI tools with user reviews, comparisons, and integration guides",
+      description: "Curated platform showcasing numerous AI tools with user reviews, comparisons, and integration guides",
       logo: ConsultlyLogo,
       link: {
         label: "AIA Tools",
