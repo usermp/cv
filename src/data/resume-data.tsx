@@ -26,7 +26,7 @@ export const RESUME_DATA = {
     </>
   ),
   avatarUrl: "/cv/image.jpeg",
-  personalWebsiteUrl: "https://mohammadyeganeh.ir",
+  personalWebsiteUrl: "https://github.com/usermp",
   contact: {
     email: "mohammadyeganeh.dev@gmail.com",
     tel: "+989353150068",
