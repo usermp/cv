@@ -25,7 +25,7 @@ export const RESUME_DATA = {
       and mentoring junior developers.
     </>
   ),
-  avatarUrl: "/cv/image.jpeg",
+  avatarUrl: "/image.jpeg",
   personalWebsiteUrl: "https://github.com/usermp",
   contact: {
     email: "mohammadyeganeh.dev@gmail.com",
